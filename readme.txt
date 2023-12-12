@@ -1,0 +1,1 @@
+This is a basic web page which is made using html and css only. it is functioning using css.
